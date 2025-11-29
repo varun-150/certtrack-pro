@@ -1,7 +1,6 @@
 
   {
-      "name": "Create Interactive Website Prototype",
-      "version": "0.1.0",
+  "name": "certtrack-pro",      "version": "0.1.0",
       "private": true,
       "dependencies": {
           "@jsr/supabase__supabase-js": "^2.49.8",
